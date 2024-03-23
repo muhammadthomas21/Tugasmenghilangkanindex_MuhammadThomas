@@ -1,0 +1,2 @@
+# Tugasmenghilangkanindex_MuhammadThomas
+Tugas Menghilangkan Index
